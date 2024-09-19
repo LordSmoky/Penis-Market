@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+:root
+{
+--text: #f2f4e0;
+--background: #121405;
+--primary: #dfe793;
+--secondary: #859118;
+--accent: #d2e522;
+}
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+.hud span 
+{
+    color:#FFFFFF;
+    background-color: #000000;
+    font-size: 32px;
+    width: 100vw;
+    display: block;
+    
+}
+
+.first_page 
+{
+    color:#FFFFFF;
+}
+
+.title_Ad 
+{
+    color:#FFFFFF;
+    font-family: "Comic Neue", cursive;
+    line-height: 40px;
+    font-size: 40px;
+}
+
+.price 
+{
+    color:#FFFFFF;
+    font-family: "Comic Neue", cursive;
+    font-size: 40px;
+}
+
+
+body {background-color:#252525;};
+
